@@ -1,4 +1,4 @@
-# Empty repo reset
+STEPS:
 1.go to terminal and run these lines
 # create project
 npm create vite@latest qr-code-app
